@@ -1,5 +1,5 @@
 # Twidere X
-[![Build Status](https://github.com/TwidereProject/TwidereX-Android/workflows/Android%20CI/badge.svg)](https://github.com/TwidereProject/TwidereX-Android/actions)
+[![Android CI](https://github.com/naloder/TwidereX-Android/actions/workflows/android.yml/badge.svg?branch=develop)](https://github.com/naloder/TwidereX-Android/actions/workflows/android.yml)
 [![Crowdin](https://badges.crowdin.net/twidere-x/localized.svg)](https://crowdin.com/project/twidere-x)
 [![Version](https://img.shields.io/github/v/release/TwidereProject/TwidereX-Android)](https://github.com/TwidereProject/TwidereX-Android/releases/latest)
 [![Issues](https://img.shields.io/github/issues/TwidereProject/TwidereX-Android)](https://github.com/TwidereProject/TwidereX-Android/issues)
